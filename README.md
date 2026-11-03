@@ -1,4 +1,4 @@
-# 🌂 Guarda-Chuva
+# Guarda-Chuva
 
 Conversão do algoritmo "GuardaChuva" (Portugol) para JavaScript.
 Projeto da atividade **Conversão da Linguagem**, feito em dupla.
